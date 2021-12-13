@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.Add.resources
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.Edit.resources
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.Delete.resources
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\ASUS\Desktop\Tgs Akhir\-Group_Software_Engineering-Group_Software_Engineering-master\WindowsApp1\obj\Debug\WindowsApp1.Form4.resources

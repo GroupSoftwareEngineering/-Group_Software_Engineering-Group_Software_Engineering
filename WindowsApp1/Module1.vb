@@ -1,6 +1,9 @@
 ﻿Imports System.Data.SqlClient
+
 Module ModuleConnect
     Public connection As SqlConnection
+    Public cmd As SqlCommand
+    Public dataread As SqlDataReader
     Sub db_connect()
         Try
             connection = New SqlConnection("Server=localhost;Database=CIS_db;Integrated Security=True;MultipleActiveResultSets=true")
