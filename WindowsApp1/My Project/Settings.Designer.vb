@@ -63,6 +63,16 @@ Namespace My
                 Return CType(Me("CIS_db"),String)
             End Get
         End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=localhost;Initial Catalog=CIS_db;Integrated Security=True")>  _
+        Public ReadOnly Property CIS_dbConnectionString() As String
+            Get
+                Return CType(Me("CIS_dbConnectionString"),String)
+            End Get
+        End Property
     End Class
 End Namespace
 
