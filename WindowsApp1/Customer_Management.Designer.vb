@@ -31,7 +31,7 @@ Partial Class Customer_Management
         Me.btnSeat = New System.Windows.Forms.Button()
         Me.btnCustomer = New System.Windows.Forms.Button()
         Me.Label10 = New System.Windows.Forms.Label()
-        Me.CIS_db = New WindowsApp1.CIS_db()
+        Me.CIS_db = New WindowsApp1.CIS_dbDataSet()
         Me.CISdbBindingSource = New System.Windows.Forms.BindingSource(Me.components)
         CType(Me.SplitContainer1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SplitContainer1.Panel1.SuspendLayout()
@@ -149,7 +149,7 @@ Partial Class Customer_Management
         Me.Label10.BackColor = System.Drawing.Color.Maroon
         Me.Label10.Font = New System.Drawing.Font("LEMON MILK", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label10.ForeColor = System.Drawing.Color.White
-        Me.Label10.Location = New System.Drawing.Point(85, 10)
+        Me.Label10.Location = New System.Drawing.Point(94, 10)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(282, 43)
         Me.Label10.TabIndex = 10
@@ -198,6 +198,6 @@ Partial Class Customer_Management
     Friend WithEvents btnSeat As Button
     Friend WithEvents btnCustomer As Button
     Friend WithEvents Label10 As Label
-    Friend WithEvents CIS_db As CIS_db
+    Friend WithEvents CIS_db As CIS_dbDataSet
     Friend WithEvents CISdbBindingSource As BindingSource
 End Class
